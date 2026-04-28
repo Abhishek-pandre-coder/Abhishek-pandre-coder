@@ -111,7 +111,7 @@ python hello.py
 
 ## Portfolio
 
-[https://github.com/pandreabhishek216](https://github.com/pandreabhishek216)
+[https://github.com/Abhishek-pandre-coder](https://github.com/Abhishek-pandre-coder))
 
 
 
@@ -121,7 +121,7 @@ python hello.py
   <a href="mailto:pandreabhishek216@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://github.com/pandreabhishek216">
+  <a href="https://github.com/Abhishek-pandre-coder">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
 </p>
